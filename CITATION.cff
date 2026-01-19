@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+authors:
+  - family-names: Cheung
+    given-names: Ngo
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Replace with actual ORCID if available
+title: "Modeling Antidepressant-Induced Manic Switch and Longitudinal Relapse: A Unified Pruning Framework Highlights Glutamatergics' Disease-Modifying Potential"
+version: 1.0.0
+doi: 10.5281/zenodo.18298989
+date-released: 2026-01-19
+url: "https://doi.org/10.5281/zenodo.18298989"
+repository-code: "https://github.com/cheungngo/A-Unified-Pruning-Framework-Highlights-Glutamatergics-Disease-Modifying-Potential.git"
+license: "CC-BY-4.0"  # Adjust if a different license applies (common for Zenodo academic deposits)
+keywords:
+  - computational psychiatry
+  - neural plasticity
+  - antidepressant mechanisms
+  - manic switch
+  - bipolar disorder
+  - ketamine
+  - neurosteroids
+  - synaptic pruning
+abstract: "This repository contains code and data for a computational model comparing glutamatergic (ketamine-like), monoaminergic (SSRI-like), and GABAergic (neurosteroid-like) antidepressant mechanisms in a pruning-based framework of depression, with explicit modeling of treatment-emergent manic risk and post-discontinuation relapse."
